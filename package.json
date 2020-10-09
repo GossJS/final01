@@ -1,0 +1,14 @@
+{
+  "scripts": {
+    "start": "node index.js"
+  },
+  "name": "final01",
+  "version": "1.0.1",
+  "engines": {
+    "node": "10.19.0"
+  },
+  "main": "index.js",
+  "repository": "https://github.com/GossJS/final01.git",
+  "author": "GossJS",
+  "license": "MIT"
+}
